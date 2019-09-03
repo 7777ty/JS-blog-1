@@ -1,4 +1,4 @@
-# JaveScript历史
+# JavaScript历史
 本博客结合饥人谷的JavaScript概述一课以及阮一峰的JavaScript标准参考教程，总结关于JavaScript的历史。
 
 ---
@@ -41,4 +41,3 @@ ECMAScript只用来标准化JavaScript这种语言的基本语法结构，与部
 ECMA-262标准后来也被另一个国际标准化组织ISO（International Organization for Standardization）批准，标准号是ISO-16262。
 
 
-# JS-blog-1
